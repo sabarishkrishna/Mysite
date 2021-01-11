@@ -1,4 +1,5 @@
 body {
+  background-color: black;
   color: #312c51;
   margin: 0;
   text-align: center;
@@ -10,6 +11,12 @@ h1 {
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
+}
+
+
+.skills{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
 }
 
 h2 {
@@ -47,6 +54,10 @@ a:hover {
   color: #EAF6F6;
 }
 
+.top{
+  padding-top: 100px;
+}
+
 .top-container {
   background-color: #312c51;
   position: relative;
@@ -66,6 +77,7 @@ a:hover {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+  font-size: 30px;
 }
 
 .pro {
