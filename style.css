@@ -66,6 +66,7 @@ a:hover {
 
 .middle-container {
   margin: 100px 0;
+  background-color: black;
 }
 
 .bottom-container {
@@ -99,6 +100,7 @@ a:hover {
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
 
 .top-cloud {
   position: absolute;
